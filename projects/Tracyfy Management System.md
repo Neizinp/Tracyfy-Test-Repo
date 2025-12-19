@@ -2,7 +2,7 @@
 id: "proj-1766070058628"
 name: "Tracyfy Management System"
 description: "A \"meta\" demonstration project describing Tracyfy itself. Learn about the tool's Atomic Philosophy, local-first design, and traceability features while exploring the interface."
-lastModified: 1766070059337
+lastModified: 1766127434930
 requirementIds:
   - "REQ-001"
   - "REQ-002"
@@ -22,6 +22,7 @@ requirementIds:
   - "REQ-016"
   - "REQ-017"
   - "REQ-018"
+  - "REQ-020"
 useCaseIds:
   - "UC-001"
   - "UC-002"
